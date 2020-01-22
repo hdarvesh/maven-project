@@ -28,6 +28,7 @@
       <url>file:///tmp/maven-project-site</url>
     </site>
            <repository>
+                    <id>nexus</id>
                     <name>jpetrepo</name>
                     <url>http://23.96.121.78:8081/repository/jpetrepo/</url>
            </repository>
